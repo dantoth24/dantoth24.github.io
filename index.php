@@ -147,7 +147,7 @@
 									<h2>Contact Me</h2>
 								</header>
 
-								Email: <a href="dantoth24@gmail.com">dantoth24@gmail.com</a>
+								Email: <a href="mailto:dantoth24@berkeley.edu">dantoth24@berkeley.edu</a>
 							</article>
 
 					</div>
